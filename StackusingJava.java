@@ -13,9 +13,6 @@ class Node{
 
    }
 
-
-
-   
    public void push(int data){
     Node newNode = new Node(data);
     if(top==null)

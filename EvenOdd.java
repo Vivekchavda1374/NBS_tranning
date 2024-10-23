@@ -8,5 +8,6 @@ class EvenOdd{
         }else{
             System.out.println("odd");
         }
+        sc.close();    
     }
 }
